@@ -6,7 +6,7 @@ The column names and detailed schema of the above files are mentioned in codeboo
 
 Tidy_Data.txt 
 ==============
-– This file contains the formatted data with mean and std variables
+This file contains the formatted tidy data with mean and std variables
 
 
 Narrow_Data.txt 
