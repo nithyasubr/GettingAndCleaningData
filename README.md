@@ -11,18 +11,14 @@ Files submitted
 - 'README.txt' : The txt format of this same file
 - 'codebook.md' : Overview of the data-files
 - 'codebook.pdf' : Data dictionary for the submitted data files
-
 - 'Tidy_Data.txt' : The combined dataset that has only mean and std variables (Step-2)
-
 - 'Narrow_Data.txt': The dataset that has the average of each variable for every 
 		     subject and activity	 (Step-5 data)
-
 - 'combined_data_step1.txt' : The combined dataset that has all the 561 variables
 			      I created this in the first step and also enriched
 			      as per step 3 and 4. Though this dataset file is not 
 			      requested as per the submission, uploading this file 
 			      for reference since this is the first dataset that I used for steps 2 through 5
-
 - run_analysis.R : The R script that reads the data and performs the requested analyis
 
 Steps performed in the R script (run_analysis.R)
