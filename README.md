@@ -7,7 +7,10 @@ Contains the course project submission for the Getting and Cleaning data course
 Files submitted
 =========================================
 
-- 'README.txt' : Provides explanation and details on the submitted files. Same as this file but better formatted
+- 'README.md' : Provides explanation and details on the submitted files. 
+- 'README.txt' : The txt format of this same file
+- 'codebook.md' : Overview of the data-files
+- 'codebook.pdf' : Data dictionary for the submitted data files
 
 - 'Tidy_Data.txt' : The combined dataset that has only mean and std variables (Step-2)
 
